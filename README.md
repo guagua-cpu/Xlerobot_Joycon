@@ -1,0 +1,2 @@
+# Xlerobot_Joycon
+Joycon手柄遥操作Xlerobot并采数据训练Pi0.5
